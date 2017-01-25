@@ -1,0 +1,101 @@
+ID	Page	Number	Article	Text1	Variant1	Variant2	Variant3	Text2	__
+4	1	1	1	Water	is to boil	is boiling	boils	at a temperature of 1000 C.	__
+5	1	2	2	In some countries	there is	is	it is	very hot all the time.	__
+6	1	3	3	In cold countries people wear thick clothes	to keeping	to keep	for to keep	warm.	__
+7	1	4	4	In England people are always talking about	a weather	the weather	weather.	__
+8	1	5	5	In some places	it rains	there rains	it raining	almost every day.	__
+9	1	6	6	In deserts there isn’t	the	some	any	grass.	__
+10	1	7	7	Places near the Equator have	a warm	the warm	warm	weather even in the cold season.	__
+11	1	8	8	In England	coldest	the coldest	colder	time of year is usually from December to February.	__
+12	1	9	9		The most	Most of	Most	people don’t know what it’s like in other countries.	__
+13	1	10	10	Very	less	little	few	people can travel abroad.	__
+14	1	11	11	Mohammed Ali	has won	won	is winning	his first world title fight in 1960.	__
+15	1	12	12	After he	had won	have won	was winning	an Olympic gold medal he became a professional boxer.	__
+16	1	13	13	His religious beliefs	have made him	made him to	made him	change his name when ha became	champion.	__
+18	1	14	14	If he	has	would have	had	lost his first fight with Sonny Liston, no one would have been surprised.	__
+19	1	15	15	He has traveled a lot	both	and	or	as a boxer and as a world - famous personality.	__
+20	1	16	16	He is very well known	all in	all over	in all	the world.	__
+21	1	17	17	Many people	is believing	are believing	believe	he was the greatest boxer of all time.	__
+22	1	18	18	To be the best	from	in	of	the world is not easy.	__
+23	1	19	19	Like any top sportsman Ali	had to	must	should	train very hard.	__
+24	1	20	20	Even though he has now lots his title, people	would	will	did	always remember him as a champion.	__
+25	1	21	21	The history of 	aeroplane	the aeroplane	an aeroplane	is 	__
+26	1	22	22	 	quite a	a quite	quite	short one. For many centuries men 	__
+27	1	23	23	 	are trying	try	had tried	 to fly, but with 	__
+28	1	24	24	 	little	few	a little	success. In the 19 th century a few people 	__
+29	1	25	25	succeeded 	to fly	in flying	into flying	in balloons. But it wasn’t until 	__
+30	1	26	26	the beginning of	this	next	that	 century that anybody	__
+31	1	27	27		were	is	was	able to fly in a machine	__
+32	1	28	28		who	which	what	was heavier that air, in other words, in	__
+33	1	29	29	 	who	which	what	we now call a «plane». The first people to achieve	__
+34	1	30	30	«powered flight» were the Wright brothers.	His	Their	Theirs	was the machine which was the forerunner of the Jumbo jets	__
+36	1	31 	31	and supersonic airliners that are	such	such a	so	common 	__
+37	1	32 	32	sight today. They	could	should	couldn’t	hardly have imagined that in 1969, 	__
+38	1	33 	33		not much	not many	no much	more than half a century later ,	__
+39	1	34 	34	a man	will be	had been	would be	landed on the moon.	__
+40	1	35 	35	Already	a man	man	the man	is taking the first steps towards the stars.	__
+41	1	36 	36	Although space satellites have existed	since	during	for	less	__
+42	1	37 	37	than forty years , we are now dependent	from	of	on	them for all 	__
+43	1	38 	38	kinds of	informations	information	an information	. Not only 	__
+44	1	39 	39		are they	they are	there are	being used for scientific research in 	__
+45	1	40 	40	space, but also to see what kind of weather	is coming	comes	coming	.	__
+46	1	41 	41	By 1998 there	would	must	will	have been satellites in space for forty 	__
+47	1	42 	42	years and the «space superpowers » are planning to	have	make	let	__
+48	1	43 	43	massive space stations built. When these	will be	are	will have been	__
+49	1	44 	44	completed it will be the first time	when	where	that	astronauts will be	__
+50	1	45 	45	able to work in space in large numbers.	Apart	For	Except	 all that,	__
+51	1	46 	46	in many ways the most remarkable flight	of	above	at	all was	 
+52	1	47 	47		it	that	that one	of the flying bicycle, which the world saw on television,	__
+53	1	48 	48		flying	to fly	fly	across the Channel from England to France ,with nothing	__
+54	1	49 	49		apart	but	than	a man to power it. As the bicycle – flyer said, 	__
+55	1	50 	50	«It’s the first time	I realize	I’ve realized	I am realizing	what hard work it is to be a bird! »	__
+56	1	51 	51	Many teachers	say to	say	tell	their students should learn a foreign language.	__
+57	1	52 	52	Learning a second language is not the same	as	like	than	learning a first language.	__
+58	1	53 	53	It’ takes	long time	long	a long time	to learn any language.	__
+59	1	54 	54	It is said that Chinese is perhaps the world’s 	harder	hardest	more hard	language to master.	__
+60	1	55 	55	English is quite difficult because of all the exceptions	who	which	what	have to be learnt.	__
+62	1	56 	56	You can learn the basic structures of a language quite quickly, but only if you	are wanting	will to	are willing to	make an effort.	__
+63	1	57 	57	A lot of people aren’t used	to the study	to study	to studying	grammar in their own language.	__
+64	1	58 	58	Many adult students of English wish they	would start	would have started	had started	their	language studies earlier.	__
+65	1	59 	59	In some countries students have to spent a lot of time working	on	by	in	their own.	__
+66	1	60 	60	There aren’t	no	any	some	easy way of learning a foreign language in your own country.	__
+67	1	61 	61	Some people try to improve their English by	hearing	listening	listening to	the BBC World Service	__
+68	1	62 	62		Live	Life	Living	with a foreign family can be a good way to learn English.	__
+69	1	63 	63	It’s no use 	to try	trying	in trying	to learn a language just by studying a dictionary.	__
+70	1	64 	64	many students of English	would rather not	would rather prefer not	would rather not to	take tests.	__
+71	1	65 	65	Some people think it’s time we all	learn	should learn	learnt	a single international language.	__
+74	1	66	66	Charles Walker is a teacher at a comprehensive school in Norwich. He	has joined	joined	joins	__
+75	1	67 	67	the stuff of the school in 1988 and	has been working	worked	works	there ever since.	__
+76	1	68 	68	Before	move	to move	moving	to Norwich, he taught in Italy and Wales,  	__
+77	1	69 	69	and before that he	has been	was	was being	a student at Cambridge 	__
+78	1	70 	70	University. So far he	isn’t	wasn’t	hasn’t been	in Norwich for as long	__
+79	1	71 	71	as he was in Wales, but he likes the city a lot and	should	would	could	__
+80	1	72 	72	like to stay there for at least another two years, or,	how	which	as	he	__
+81	1	73 	73	puts it, until his two children	have	will have	will be	grown up a bit.	__
+82	1	74 	74	He met his wife ,Kate, in 1982 while he	was to live	was living	had been living	abroad for a while, and they got married in 1986.	__
+84	1	75 	75	Their two children, Mark and Susan,	are	were	have been	both born in Norwich.	__
+85	1	76 	76	The Walker’s boy,	who	which	he	is four, has just started	__
+86	1	77 	77	at nursery school, but	his	their	her	sister	__
+87	1	78 	78		shall stay	stays	will be staying	at home for another couple of years,	__
+88	1	79 	79	because she is nearly two years	younger	more young	the younger	__
+89	1	80 	80	than him. Charles and Kate Walker	are used	use	used	to live in the 	__
+90	1	81 	81	country, but now that they have children , they	have moved	move	moved	__
+91	1	82 	82	into the city. Charles wanted a house	next	near	close	the	__
+92	1	83 	83	school	in order	for	to	 get to work easily. Unfortunately	__
+93	1	84 	84		the	a	that	one the two of them really wanted was too expensive,	__
+94	1	85 	85	so they	must	should	had to	buy one a bit further away. By the time the	__
+95	1	86 	86	children	go	will go	will have gone	to secondary school,	__
+96	1	87 	87		that	which	what	Charles and Kate hope will be in Norwich, the	__
+97	1	88 	88	Walkers	will have been	have been	will be	living there for at least fifteen years.	__
+98	1	89 	89	They can’t be sure if they	stay	do stay	will stay	, but if they	__
+99	1	90	90		don’t	didn’t	won’t	, their friends won’t be too surprised.	__
+106	1	91	91	John’s coming to see you,	hasn’t he	wasn’t he	isn’t he	?	__
+107	1	92	92	It’s been a long time since you’ve seen him,	hasn’t it	isn’t it	haven’t you	?	__
+108	1	93	93	He’s due to arrive tomorrow,	won’t he	isn’t he	will he	?	__
+109	1	94	94	He won’t be getting in till about 10.30,	isn’t he	is she	will he	? 	__
+110	1	95	95	You met him while you were on holiday,	didn’t you	weren’t you	haven’t you	?	__
+111	1	96	96	I think I’m expected to pick him up,	aren’t I	don’t i	are you	?	__
+112	1	97	97	No doubt you’d rather he stayed in England now,	didn’t you	wouldn’t you	shouldn’t you	?	__
+113	1	98	98	Nobody else has been told he’s coming,	is he	has he	have they	?	__
+114	1	99	99	We’d better not stay up too late tonight,	didn’t we	have we	had we	?	__
+115	1	100	100	I suppose it’s time we called it a day,	didn’t we	isn’t it	don’t I	?	
