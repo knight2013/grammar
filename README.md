@@ -49,6 +49,6 @@ Delphi 7
 	
 --
 SOA project (C) 2004
-http://soaproject.hut.ru
+https://soaproject.ru.net
 
 
